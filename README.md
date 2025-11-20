@@ -6,7 +6,7 @@ Version 2.0
 
 **⚠️ IMPORTANT: This pack is for ONLINE PLAY ONLY. Do NOT use Proto Pack cars on leaderboards.**
 
-**NOTICE: The Proto Pack requires the Lost Cars Pack to be installed first. Install Lost Cars Pack, then install Proto Pack. This pack is designed exclusively for online multiplayer racing on Insignia.**
+**NOTICE: The Proto Pack requires the Lost Cars Pack (https://github.com/x11x00x00x/pgr2lostcars) to be installed first. Install Lost Cars Pack, then install Proto Pack. This pack is designed exclusively for online multiplayer racing on Insignia.**
 
 ---------------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Experimental and prototype vehicles for unique online racing:
 
 **⚠️ CRITICAL: You MUST install the Lost Cars Pack FIRST before installing the Proto Pack.**
 
-The Proto Pack depends on files and configurations from the Lost Cars Pack. Installing them in the wrong order will cause the mod to malfunction.
+The Proto Pack depends on files and configurations from the Lost Cars Pack (https://github.com/x11x00x00x/pgr2lostcars). Installing them in the wrong order will cause the mod to malfunction.
 
 Special thanks to Jackie and MRVETTE as well as the entire PGR2 Discord: https://discord.gg/HHytpKcdbW
 
@@ -44,7 +44,7 @@ Special thanks to Jackie and MRVETTE as well as the entire PGR2 Discord: https:/
 
 Follow these steps to install the Proto Pack:
 
-1. **Install Lost Cars Pack First**: You must install the Lost Cars Pack completely before proceeding. See the Lost Cars Pack README for installation instructions.
+1. **Install Lost Cars Pack First**: You must install the Lost Cars Pack completely before proceeding. See the Lost Cars Pack README (https://github.com/x11x00x00x/pgr2lostcars) for installation instructions.
 
 2. **Copy Game Files**: After the Lost Cars Pack is installed, copy the files from the Proto Pack to the corresponding locations on your console, overwriting the existing *Project Gotham Racing 2* game files. Note: The full game must be placed on your HDD for this mod to work.
 
